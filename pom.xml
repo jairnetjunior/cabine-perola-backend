@@ -9,11 +9,11 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cabine-perola</groupId>
-	<artifactId>sistema-cabine-perola</artifactId>
+	<groupId>com.agendamento</groupId>
+	<artifactId>sistema-agendamento</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sistema-cabine-perola</name>
-	<description>Projeto de um sistema de agendamento de procedimentos estéticos</description>
+	<name>sistema-agendamento</name>
+	<description>Projeto de um sistema de agendamentos</description>
 
 	<properties>
 		<java.version>1.8</java.version>
